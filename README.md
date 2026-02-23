@@ -3,7 +3,7 @@
 
 
 ## - Project Overview
-This project analyzes the online sales data of Madhav Store across India using Power BI.  
+This project analyzes the online sales data of Parshwa Store across India using Power BI.  
 The dashboard provides insights into sales, profit, quantity, customer behavior, and product performance to support data-driven decision making.
 
 ---
