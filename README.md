@@ -1,16 +1,14 @@
 # Parshwa_Ecommerce_Sales_PowerBI_Dashboard
 
-- Dashboard (Power BI)
 
-<img width="1198" height="668" alt="image" src="https://github.com/user-attachments/assets/15834dd2-864c-47f8-b7be-597502ded6dc" />
 
-## 📌 Project Overview
+## - Project Overview
 This project analyzes the online sales data of Madhav Store across India using Power BI.  
 The dashboard provides insights into sales, profit, quantity, customer behavior, and product performance to support data-driven decision making.
 
 ---
 
-## 🎯 Business Problem
+## - Business Problem
 The owner of Madhav Store wanted to analyze online sales across India to identify:
 - Top performing products and categories
 - Profit and loss trends
@@ -19,12 +17,12 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## 📊 Dashboard Screenshot
-![Dashboard](dashboard.png)
+## - Dashboard Screenshot
+<img width="1198" height="668" alt="image" src="https://github.com/user-attachments/assets/15834dd2-864c-47f8-b7be-597502ded6dc" />
 
 ---
 
-## 📈 Key KPIs
+## - Key KPIs
 - Total Sales Amount
 - Total Profit
 - Total Quantity Sold
@@ -32,7 +30,7 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## 🧩 Dashboard Features
+## - Dashboard Features
 - Interactive slicers (State, Category, Sub-Category, Quarter)
 - Drill-down analysis by time, product, and region
 - User-driven filtering for customized insights
@@ -40,7 +38,7 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## 📊 Visualizations Used
+## - Visualizations Used
 - Bar Chart
 - Line Chart (Profit by Month)
 - Donut Chart (Category & Payment Mode)
@@ -49,7 +47,7 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## 🔍 Key Insights
+## - Key Insights
 - Clothing category contributes the highest sales
 - COD is the most preferred payment mode
 - Some months show consistent losses
@@ -57,14 +55,14 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## ⚠️ Sub-Category Analysis
+## - Sub-Category Analysis
 - Skirt & Leggings: Seasonal profitability with losses in many months
 - Electronic Games: High demand but low profit margins
 - Furnishing: High losses due to cost and logistics issues
 
 ---
 
-## 💡 Actionable Insights
+## - Actionable Insights
 - Optimize inventory during low-profit months
 - Control heavy discounting
 - Focus on high-margin products
@@ -73,7 +71,7 @@ The owner of Madhav Store wanted to analyze online sales across India to identif
 
 ---
 
-## 🛠 Tools & Technologies
+## - Tools & Technologies
 - Power BI
 - Data Cleaning & Transformation
 - Data Visualization
